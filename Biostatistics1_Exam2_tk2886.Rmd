@@ -3,21 +3,62 @@ title: "biostat1_exam2_tk"
 output: pdf_document
 ---
 
-```{r}
+```{r message = FALSE, echo = FALSE}
 library(tidyverse)
 ```
 
 
+# PROBLEM 1A 
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem1a.jpeg")
+```
+
+# PROBLEM 1b
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem1b.jpeg")
+```
+
+
+# PROBLEM 1c
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem1c.jpeg")
+```
+
+# PROBLEM 1d
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem1d.jpeg")
+```
+
+
+# PROBLEM 1e
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem1e.jpeg")
+```
+
+
+
+
 \newpage
 
-# Problem 2 
-
+# PROBLEM 2a
 ```{r  echo=FALSE, fig.align="center", out.width = '60%'}
 knitr::include_graphics("Problem2a.jpeg")
 ```
 
+
+# Problem 2b
 ```{r  echo=FALSE, fig.align="center", out.width = '60%'}
 knitr::include_graphics("Problem2b.jpeg")
 ```
 
 
+# Problem 2c
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem2c.jpeg")
+```
+
+
+# Problem 2d
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem2d.jpeg")
+```
