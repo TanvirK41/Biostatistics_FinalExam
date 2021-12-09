@@ -1,0 +1,23 @@
+---
+title: "biostat1_exam2_tk"
+output: pdf_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+\newpage
+
+# Problem 2 
+
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem2a.jpeg")
+```
+
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem2b.jpeg")
+```
+
+
