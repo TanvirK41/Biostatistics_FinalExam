@@ -1,5 +1,6 @@
 ---
-title: "biostat1_exam2_tk"
+title: "Biostatistics Methods I - EXAM 2"
+author: "TANVIR KHAN, UNI: tk2886"
 output: pdf_document
 ---
 
@@ -64,7 +65,7 @@ knitr::include_graphics("Problem2d.jpeg")
 ```
 
 
-\newpage
+
 # Problem 3
 ```{r  echo=FALSE, fig.align="center", out.width = '60%'}
 knitr::include_graphics("Problem3.jpeg")
