@@ -62,3 +62,10 @@ knitr::include_graphics("Problem2c.jpeg")
 ```{r  echo=FALSE, fig.align="center", out.width = '60%'}
 knitr::include_graphics("Problem2d.jpeg")
 ```
+
+
+\newpage
+# Problem 3
+```{r  echo=FALSE, fig.align="center", out.width = '60%'}
+knitr::include_graphics("Problem3.jpeg")
+```
